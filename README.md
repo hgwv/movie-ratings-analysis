@@ -32,7 +32,7 @@ The goal of this project is to explore which factors are associated with higher 
 
 ### Visualizations
 ![Ratings Distribution](images/ratings_distribution.png)  
-![Average Rating by Decade](images/avg_rating_by_decade.png)  
+![Average Rating by Decade](images/avg_ratings_by_decade.png)  
 ![Runtime vs Rating](images/runtime_vs_rating.png)
 
 ## Limitations
