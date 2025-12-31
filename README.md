@@ -44,18 +44,21 @@ The goal of this project is to explore which movie attributes are associated wit
 
 ### Distribution of IMDb Ratings
 ![Distribution of IMDb Ratings](/images/ratings_distribution.png)
+
 This histogram shows that most movies in the dataset fall within a narrow rating range, with relatively few extreme values.
 
 ---
 
 ### Average IMDb Rating by Decade
 ![Average IMDb Rating by Decade](/images/avg_ratings_by_decade.png)
+
 This bar chart demonstrates that average IMDb ratings have remained relatively stable across decades.
 
 ---
 
 ### Runtime vs IMDb Rating
 ![Runtime vs IMDb Rating](/images/runtime_vs_rating.png)
+
 This scatter plot illustrates the weak relationship between movie runtime and IMDb rating.
 
 ---
